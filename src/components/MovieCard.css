@@ -1,0 +1,36 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    padding: 5px;
+    margin: 15px 0;
+    background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
+    border-radius: 10px;
+    font-family: "lato", sans-serif;
+    transition: all 0.4s;
+  }
+  
+  .card:hover {
+    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+    transform: scale(1.07);
+    color: black;
+    cursor: pointer;
+  }
+  
+  .poster {
+    border-radius: 10px;
+  }
+  
+  .title {
+    width: 100%;
+    text-align: center;
+    font-size: 17px;
+    padding: 8px 0;
+  }
+  
+  .subtitle{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 2px;
+    padding-bottom: 3px;
+  }
