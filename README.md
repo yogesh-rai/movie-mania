@@ -1,6 +1,6 @@
 # Movie-mania app
 
-- Movie-mania is an online site for information related to films ans series.
+- Movie-mania is an online site for information related to films and series.
 - Used material-ui, css and flexbox for styling.
 - Used react-hooks, router.
 - Fetching search results using axios.
