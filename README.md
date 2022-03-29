@@ -1,3 +1,37 @@
+# Movie-mania app
+
+- Movie-mania is an online site for information related to films ans series.
+- Used material-ui, css and flexbox for styling.
+- Used react-hooks, router.
+- Fetching search results using axios.
+- Deployed on web using Firebase.
+
+#### Tech Stack : Reactjs, CSS, Material-Ui, VS Code.
+
+#### Live preview of the site :- 
+
+https://yogi-movie-mania.web.app/
+
+Screenshots :- 
+
+![React App](https://user-images.githubusercontent.com/69380654/160645408-0bbc5573-ea66-422c-94fb-de45a3b6eba0.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
